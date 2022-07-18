@@ -8,7 +8,7 @@
 Habilidades: / REACT / REDUX / NodeJS / PostgreSQL / MongoDB / JS / HTML / CSS
 
 - 🔭 Estoy trabajando en generar conomientos nuevos 
-- 👯 Quiero colaborar con lo que pueda para poder ayudar 
+- 👯 Quiero colaborar con mi conocimiento para poder ayudar 
 - 📫 Cómo contactarme: Les dejo mi email gabrielnahuel96@gmail.com 
 
 #### Portfolio 
