@@ -47,7 +47,7 @@ Con muchas ganas de seguir aprendiendo y ser capaz de resolver los proyectos a r
 ## 🔗 Portfolio
 
 🌐 **Mi portfolio personal**: Una colección de mis proyectos destacados, habilidades y experiencia.  
-[![Portfolio](https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=icloud&logoColor=white)](https://portfolio-six-black-41.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=icloud&logoColor=white)](https://nahuelcernadas.vercel.app/)
 
 ---
 
@@ -57,7 +57,7 @@ Con muchas ganas de seguir aprendiendo y ser capaz de resolver los proyectos a r
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nahuel-199)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-cernadas-3b111a1b7/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=icloud&logoColor=white)](https://portfolio-six-black-41.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=icloud&logoColor=white)](https://nahuelcernadas.vercel.app/)
 
 </div>
 
