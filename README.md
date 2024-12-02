@@ -1,9 +1,14 @@
-### Hola 👋, mi nombre es Nahuel Cernadas 
-#### Soy un apasinado por la tecnología 
-![Soy un apasinado por la tecnología ](https://firebasestorage.googleapis.com/v0/b/react-eccomerce-979a7.appspot.com/o/Categorias%2Fgif.gif?alt=media&token=1244b168-01e1-4c79-85eb-a5c0c44d8716)
 
-<p> Mi objetivo es desarrollarme y crecer tanto profesional como laboralmente. Compartir mis conocimientos y habilidades para lograr un desempeño satisfactorio tanto mío como de la empresa a ejercer </p>
-<p>Con muchas ganas de seguir aprendiendo y ser capaz de resolver los proyectos a realizar. Apasionado por la tecnología, siempre investigando para poder generar buenas practicas</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=500&color=319795&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B%2C+mi+nombre+es+Nahuel+Cernadas!" alt="Typing Animation"/>
+
+## 💻 Desarrollador Full Stack | Apasionado por la tecnología 🚀
+
+**🎯 Mi objetivo:**  
+Mi objetivo es desarrollarme y crecer tanto profesional como laboralmente. Compartir mis conocimientos y habilidades para lograr un desempeño satisfactorio tanto mío como de la empresa a ejercer.
+
+**📚 Siempre aprendiendo:**  
+Con muchas ganas de seguir aprendiendo y ser capaz de resolver los proyectos a realizar. Apasionado por la tecnología, siempre investigando para poder generar buenas prácticas.
+
 
 ## 🚀 Tecnologías que domino:
 
@@ -39,17 +44,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
 </div>
 
-- 🔭 Estoy trabajando en generar conomientos nuevos 
-- 👯 Quiero colaborar con mi conocimiento para poder ayudar 
-- 📫 Cómo contactarme: Les dejo mi email gabrielnahuel96@gmail.com 
+## 🔗 Portfolio
 
-#### Portfolio 
+🌐 **Mi portfolio personal**: Una colección de mis proyectos destacados, habilidades y experiencia.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=icloud&logoColor=white)](https://portfolio-six-black-41.vercel.app/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-six-black-41.vercel.app/)
+---
 
-#### Enlances
+## 🌍 Mis Enlaces
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nahuel-199)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nahuel-cernadas-3b111a1b7//)  
+<div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nahuel-199)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-cernadas-3b111a1b7/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-319795?style=for-the-badge&logo=icloud&logoColor=white)](https://portfolio-six-black-41.vercel.app/)
 
+</div>
 
