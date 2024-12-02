@@ -5,6 +5,25 @@
 <p> Mi objetivo es desarrollarme y crecer tanto profesional como laboralmente. Compartir mis conocimientos y habilidades para lograr un desempeño satisfactorio tanto mío como de la empresa a ejercer </p>
 <p>Con muchas ganas de seguir aprendiendo y ser capaz de resolver los proyectos a realizar. Apasionado por la tecnología, siempre investigando para poder generar buenas practicas</p>
 
+## 🚀 Tecnologías que domino:
+
+### Frontend
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![Chakra UI](https://img.shields.io/badge/Chakra--UI-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+
+### Backend
+- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Otros
+- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
 Habilidades: / REACT / REDUX / NodeJS / PostgreSQL / MongoDB / JS / HTML / CSS
 
 - 🔭 Estoy trabajando en generar conomientos nuevos 
